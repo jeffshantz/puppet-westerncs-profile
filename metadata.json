@@ -4,9 +4,9 @@
   "author": "Jeff Shantz <jeff@csd.uwo.ca>",
   "summary": "Profiles for Western Computer Science.",
   "license": "Apache 2.0",
-  "source": "",
-  "project_page": null,
-  "issues_url": null,
+  "source": "https://github.com/jeffshantz/puppet-westerncs-profile.git",
+  "project_page": "https://github.com/jeffshantz/puppet-westerncs-profile",
+  "issues_url": "https://github.com/jeffshantz/puppet-westerncs-profile/issues",
   "dependencies": [
     {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"},
     {"name":"westerncs-base","version_requirement":">= 0.1.0"},
