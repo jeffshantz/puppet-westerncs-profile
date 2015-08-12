@@ -9,6 +9,7 @@
   "issues_url": "https://github.com/jeffshantz/puppet-westerncs-profile/issues",
   "dependencies": [
     {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"},
+    {"name":"stahnma-epel","version_requirement":">= 1.0.2"},
     {"name":"westerncs-base","version_requirement":">= 0.1.0"},
     {"name":"westerncs-lxc","version_requirement":">= 0.1.0"}
   ]
